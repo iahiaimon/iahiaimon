@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 ![Iahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=radical)
 
+### Dynamic Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=iahiaimon&color=blue)
+
+
 ### 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iahia-imon-17654b331/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Iahia_Imon)
