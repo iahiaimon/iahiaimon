@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+# Hello, I'm Iahia Imon! 👋
+
+### 💻 About Me
+- 🔭 I’m currently working on **Django web projects**.
+- 🌱 I’m learning **Full-Stack Development**.
+- 🚀 I love contributing to open-source.
+
+### 📊 GitHub Stats
+![Iahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=radical)
+
+### 🌍 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iahia-imon-17654b331/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Iahia_Imon)
