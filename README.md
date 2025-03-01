@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 ### Dynamic Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=iahiaimon&color=blue)
 
+### Most Using Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iahiaimon&langs_count=8&theme=tokyonight)
+
+
 
 ### 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iahia-imon-17654b331/)
