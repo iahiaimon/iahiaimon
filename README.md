@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 ![Iahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=radical)
 
-###🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iahiaimon&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-###🔥 Streak Stats
+### 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iahiaimon&theme=tokyonight)
 
