@@ -36,10 +36,6 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iahiaimon&theme=tokyonight)
 
-###📈 GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=iahiaimon&theme=tokyonight)
-
 ### Most Using Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iahiaimon&langs_count=8&theme=tokyonight)
 
