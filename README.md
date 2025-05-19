@@ -27,11 +27,21 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 ![Iahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=radical)
 
-### Dynamic Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=iahiaimon&color=blue)
+###🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=iahiaimon)](https://github.com/ryo-ma/github-profile-trophy)
+
+###🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iahiaimon&theme=tokyo-night)
+
+###📈 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=iahiaimon&theme=tokyo-night)
 
 ### Most Using Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iahiaimon&langs_count=8&theme=tokyonight)
+
+### Dynamic Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=iahiaimon&color=blue)
+
 
 
 
