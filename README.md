@@ -28,12 +28,15 @@ Here are some ideas to get you started:
 ![Iahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=radical)
 
 ###🏆 GitHub Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=iahiaimon)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###🔥 Streak Stats
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iahiaimon&theme=tokyo-night)
 
 ###📈 GitHub Activity Graph
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=iahiaimon&theme=tokyo-night)
 
 ### Most Using Language
