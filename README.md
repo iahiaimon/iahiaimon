@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 - 🚀 I love contributing to open-source.
 
 ### 📊 GitHub Stats
-![Iahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=radical)
+![Iahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=tokyonight)
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iahiaimon&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iahiaimon&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 🔥 Streak Stats
