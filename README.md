@@ -37,11 +37,15 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iahiaimon&theme=tokyonight)
 
 ### Most Using Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iahiaimon&langs_count=8&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iahiaimon&layout=compact&theme=tokyonight)
 
 ### 🌐 Dynamic Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=iahiaimon&color=blue)
 
+
+### 📈 GitHub Activity Graph
+
+[![Iahia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iahiaimon&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
