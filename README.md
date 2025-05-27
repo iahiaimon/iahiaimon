@@ -28,12 +28,9 @@ Here are some ideas to get you started:
 ![Iahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=tokyonight)
 
 ### 🏆 GitHub Trophies
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=iahiaimon&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 ### 🔥 Streak Stats
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iahiaimon&theme=tokyonight)
 
 ### Most Using Language
@@ -42,12 +39,8 @@ Here are some ideas to get you started:
 ### 🌐 Dynamic Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=iahiaimon&color=blue)
 
-
 ### 📈 GitHub Activity Graph
-
 [![Iahia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iahiaimon&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 ### 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iahia-imon-17654b331/)
