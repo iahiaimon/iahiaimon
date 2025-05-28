@@ -1,3 +1,6 @@
+<img src="imon_upscayl_4x_realesrgan-x4plus.jpg" alt="My GitHub Banner" width="100%" />
+
+
 ## Hi there 👋
 
 <!--
