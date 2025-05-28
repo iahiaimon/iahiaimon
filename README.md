@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 ### Most Using Language
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iahiaimon&layout=compact&theme=tokyonight)
 
-### 🌐 Dynamic Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=iahiaimon&color=blue)
-
 ### 📈 GitHub Activity Graph
 [![Iahia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iahiaimon&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🌐 Dynamic Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=iahiaimon&color=blue)
 
 ### 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iahia-imon-17654b331/)
