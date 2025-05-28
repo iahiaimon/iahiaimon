@@ -1,7 +1,6 @@
 <img src="imon_upscayl_4x_realesrgan-x4plus.jpg" alt="My GitHub Banner" width="100%" />
 
 
-## Hi there 👋
 
 <!--
 **iahiaimon/iahiaimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
