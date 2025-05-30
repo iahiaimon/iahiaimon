@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iahiaimon&layout=compact&theme=tokyonight)
 
 ### 📈 GitHub Activity Graph
-[![Iahia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iahiaimon&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Iahia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iahiaimon&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🌐 Dynamic Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=iahiaimon&color=blue)
