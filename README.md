@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Django web projects**.
 - 🌱 I’m learning **Full-Stack Development**.
 - 🚀 I love contributing to open-source.
--  👯 I’m looking to collaborate on Backend 
+-  👯 I’m looking to collaborate on **Backend Development**
 
 ### 📊 GitHub Stats
 ![Iahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=tokyonight)
