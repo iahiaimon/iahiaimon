@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 # Hello, I'm Iahia Imon! 👋
 
 ### 💻 About Me
-- 🔭 I’m currently working on **Django web projects**.
-- 🌱 I’m learning **Full-Stack Development**.
+- 🔭 I’m currently working on **Django Web Projects**.
+- 🌱 I’m learning **Full-Stack Web Development**.
 - 🚀 I love contributing to open-source.
 -  👯 I’m looking to collaborate on **Backend Development**
 -  👯 I’m looking to collaborate on **Frontend Development**
