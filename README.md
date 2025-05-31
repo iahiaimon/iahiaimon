@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ### 💻 About Me
 - 🔭 I’m currently working on **Django Web Projects**.
+- 🔭 I’m currently working on **Django API**.
 - 🌱 I’m learning **Full-Stack Web Development**.
 - 🚀 I love contributing to open-source.
 -  👯 I’m looking to collaborate on **Backend Development**
