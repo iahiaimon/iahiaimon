@@ -1,7 +1,6 @@
 <img src="Banner.jpg" alt="My GitHub Banner" width="100%" />
 
 
-
 <!--
 **iahiaimon/iahiaimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-
 # Hello, I'm Iahia Imon!  👋
 
 ### 💻 About Me
@@ -28,6 +26,7 @@ Here are some ideas to get you started:
 - 🚀 I love contributing to open-source.
 -  👯 I’m looking to collaborate on **Backend Development**
 -  👯 I’m looking to collaborate on **Frontend Development**
+
 
 ### 📊 GitHub Stats
 ![Iahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=tokyonight)
