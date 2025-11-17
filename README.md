@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 -  👯 I’m looking to collaborate on **Frontend Development**
 
 
+### TECH 
+[![My Skills](https://skillicons.dev/icons?i=django,py,react,git,github,mysql,nextjs,js,html,tailwind,css,wasm)](https://skillicons.dev)
+
+
 ### 📊 GitHub Stats
 ![Iahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=tokyonight)
 
