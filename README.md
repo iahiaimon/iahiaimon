@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 ### TECH 
-[![My Skills](https://skillicons.dev/icons?i=django,py,react,git,github,mysql,nextjs,js,html,tailwind,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,py,react,nextjs,js,html,tailwind,css,git,github,mysql)](https://skillicons.dev)
 
 
 ### 📊 GitHub Stats
