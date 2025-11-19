@@ -36,12 +36,15 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 ![Iahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=tokyonight)
 
+<div display="flex" gap="20px">
+  
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=iahiaimon&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iahiaimon&theme=tokyonight)
 
+</div>
 ### Most Using Language
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iahiaimon&layout=compact&theme=tokyonight)
 
