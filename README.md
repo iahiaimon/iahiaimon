@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">Hi there, I'm <span style="color:#e95420;">Iahia Imon</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
+<h3 align="center">Full-Stack Developer | Penetration Tester</h3>
 
-# Hello, I'm Iahia Imon!  👋
 
 ### 💻 About Me
 - 🔭 I’m currently working on **Django Web Projects**.
