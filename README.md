@@ -23,7 +23,6 @@
 
 ---
 
-### 🏆 GitHub Trophies & Achievements
 <!-- GitHub Trophies Section with clickable link for more info -->
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <div>
