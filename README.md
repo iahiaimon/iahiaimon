@@ -17,13 +17,13 @@ Frontend
 Database & Tools
 <p> <img src="https://skillicons.dev/icons?i=mysql,git,github" alt="Database and Tools" /> </p>
 📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Iahia's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iahiaimon&layout=compact&theme=tokyonight&hide_border=true" alt="Iahia's Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&hide_border=true&theme=tokyonight" alt="Iahia Imon's GitHub Statistics" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iahiaimon&layout=compact&hide_border=true&theme=tokyonight" alt="Iahia Imon's Most Used Languages" /> </p> 
 🔥 GitHub Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iahiaimon&theme=tokyonight&hide_border=true" alt="Iahia's GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iahiaimon&theme=tokyonight&hide_border=true" alt="Iahia Imon's GitHub Streak" /> </p> 
 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=iahiaimon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=iahiaimon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="Iahia Imon's GitHub Trophies" /> </p> 
 📈 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iahiaimon&theme=tokyo-night&hide_border=true" alt="Iahia's GitHub Activity Graph" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iahiaimon&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="Iahia Imon's GitHub Contribution Graph" /> </p>
 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/iahia-imon-17654b331/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://x.com/Iahia_Imon"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /> </a> <a href="https://github.com/iahiaimon"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
 ⚡ Fun Fact
