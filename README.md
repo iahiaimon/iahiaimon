@@ -1,76 +1,34 @@
-<!-- Banner Image -->
-<img src="Banner.png" alt="My GitHub Banner" width="100%" />
+<!-- ===================== BANNER ===================== --> <p align="center"> <img src="Banner.png" alt="Iahia Imon GitHub Banner" width="100%" /> </p> <!-- ===================== INTRO ===================== --> <h1 align="center"> Hi there, I'm Iahia Imon 👋 </h1> <p align="center"> <strong>Full-Stack Developer · Penetration Tester · Open-Source Enthusiast</strong> </p> <p align="center"> <a href="https://github.com/iahiaimon"> <img src="https://komarev.com/ghpvc/?username=iahiaimon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </a> <a href="https://github.com/iahiaimon?tab=followers"> <img src="https://img.shields.io/github/followers/iahiaimon?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" /> </a> </p>
+👨‍💻 About Me
 
-<!-- Title Section -->
-<h1 align="center">Hi there, I'm <span style="color:#e95420;">Iahia Imon</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
-<h3 align="center">Full-Stack Developer | Penetration Tester</h3>
+I'm a passionate developer focused on building modern, scalable web applications and APIs.
 
-### 💻 About Me
-- 🔭 I’m currently working on **Django Web Projects** and **Django APIs**.
-- 🌱 I’m learning **Full-Stack Web Development**.
-- 🚀 I love contributing to open-source.
-- 👯 I’m looking to collaborate on **Backend Development** and **Frontend Development**.
+🔭 Currently working on Django web applications & REST APIs
+🌱 Currently learning Full-Stack Web Development
+🛡️ Interested in Cybersecurity & Penetration Testing
+🚀 Passionate about Open Source
+🤝 Open to collaborating on Backend & Frontend projects
+⚡ I enjoy turning ideas into real-world applications
+🛠️ Tech Stack
+Backend
+<p> <img src="https://skillicons.dev/icons?i=python,django" alt="Backend Technologies" /> </p>
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" alt="Frontend Technologies" /> </p>
+Database & Tools
+<p> <img src="https://skillicons.dev/icons?i=mysql,git,github" alt="Database and Tools" /> </p>
+📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Iahia's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iahiaimon&layout=compact&theme=tokyonight&hide_border=true" alt="Iahia's Top Languages" /> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iahiaimon&theme=tokyonight&hide_border=true" alt="Iahia's GitHub Streak" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=iahiaimon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" /> </p>
+📈 Contribution Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iahiaimon&theme=tokyo-night&hide_border=true" alt="Iahia's GitHub Activity Graph" /> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/iahia-imon-17654b331/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://x.com/Iahia_Imon"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /> </a> <a href="https://github.com/iahiaimon"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
+⚡ Fun Fact
 
-### 🔧 Technologies I Use
+I once built a full-stack application for a Hackathon in just 48 hours using Django, React, and MySQL.
+It was intense, challenging, and absolutely worth it! 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=django,py,react,nextjs,js,html,tailwind,css,git,github,mysql)](https://skillicons.dev)
-
----
-
-### 📊 GitHub Stats
-<!-- Display GitHub stats with a nice theme -->
-![Iahia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=tokyonight)
-
----
-
-<!-- GitHub Trophies Section with clickable link for more info -->
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div>
-    <h3>🏆 GitHub Trophies</h3>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-      <img src="https://github-profile-trophy.vercel.app/?username=iahiaimon&theme=tokyonight&row=2&column=4" alt="GitHub Trophies" />
-    </a>
-  </div>
-  
-  <div>
-    <h3>🔥 Streak Stats</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=iahiaimon&theme=tokyonight" alt="GitHub Streak Stats" />
-  </div>
-</div>
-
----
-
-### 🗣️ Most Used Languages
-<!-- Most Used Languages with compact view -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iahiaimon&layout=compact&theme=tokyonight)
-
----
-
-### 📈 GitHub Activity Graph
-<!-- Activity Graph showcasing your GitHub activity -->
-[![Iahia's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iahiaimon&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🌐 Visitor Count (Dynamic)
-<!-- Show visitor count dynamically -->
-![Visitor Count](https://komarev.com/ghpvc/?username=iahiaimon&color=blue)
-
----
-
-### 🌍 Connect with me:
-
-<!-- Adding clickable badges to social media -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/iahia-imon-17654b331/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://x.com/Iahia_Imon" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-  </a>
-</p>
-
----
-
-### ⚡ Fun fact:
-- I once built a full-stack app for a **Hackathon** in **48 hours** using Django, React, and MySQL. It was intense but super rewarding!
+<p align="center"> <i>💻 Build · 🛡️ Secure · 🚀 Ship · 🌱 Learn</i> </p>
