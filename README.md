@@ -17,7 +17,7 @@ Frontend
 Database & Tools
 <p> <img src="https://skillicons.dev/icons?i=mysql,git,github" alt="Database and Tools" /> </p>
 📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&hide_border=true&theme=tokyonight" alt="Iahia Imon's GitHub Statistics" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iahiaimon&layout=compact&hide_border=true&theme=tokyonight" alt="Iahia Imon's Most Used Languages" /> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iahiaimon&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Statistics" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iahiaimon&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" /> </p> 
 🔥 GitHub Streak
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iahiaimon&theme=tokyonight&hide_border=true" alt="Iahia Imon's GitHub Streak" /> </p> 
 🏆 GitHub Trophies
